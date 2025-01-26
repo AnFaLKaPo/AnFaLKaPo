@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnFaLKaPo
-- 👀 I’m interested in ( python , c/c++ , js , java )
-- 🌱 I’m currently learning (programation , design , video editing , 3D )
+- 👀 I’m interested in ( programation , design , video editing , 3D )
+- 🌱 I’m currently learning (programation with python , c/c++ , js , java )
 
 
 <!---
