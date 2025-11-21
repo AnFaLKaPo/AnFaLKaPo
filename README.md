@@ -27,21 +27,18 @@ Design: Figma, UI/UX fundamentals
 
 Management & Marketing: Project coordination, content strategy, growth principles
 
-## ✨ What I Create
 
--Interactive web applications
 
--Tech & educational TikTok content
-
--UI/UX designs and prototypes
-
--Simple growth strategies for small projects
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<img src="" width="40" />
+<img src="https://github.com/user-attachments/assets/280ea45d-57e4-4372-945e-126064ab1591" width="40" />
+  <img src="https://github.com/user-attachments/assets/229ddca1-e758-417c-b4e7-4ac4a84ee6d3" width="40" />
+  <img src="https://github.com/user-attachments/assets/55099316-9a4d-446c-a55a-84a1b4ae3731" width="40" />
+  <img src="https://github.com/user-attachments/assets/3829c0ec-e9b9-4f36-ad67-07c8abb8a7a6" width="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
