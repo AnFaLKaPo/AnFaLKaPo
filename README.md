@@ -33,6 +33,7 @@ Management & Marketing: Project coordination, content strategy, growth principle
 
 ## 🛠️ Languages and Tools
 
+<img width="100"  src="https://github.com/user-attachments/assets/3b920577-0957-4323-b497-b0ed0db722a7" />
 
   <img src="https://github.com/user-attachments/assets/229ddca1-e758-417c-b4e7-4ac4a84ee6d3" width="100" />
   <img src="https://github.com/user-attachments/assets/55099316-9a4d-446c-a55a-84a1b4ae3731" width="100" />
